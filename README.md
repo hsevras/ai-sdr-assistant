@@ -4,17 +4,6 @@
   <img src="ai_sdr_screenshot.png" alt="Chatbot Preview" width="500">
 </p>
 
-<p align="center">
-  Unleash the Power of Conversational AI with this amazing Python chatbot project built using Streamlit and OpenAI! 💬🚀
-</p>
-
-<p align="center">
-  🌟 GitHub Repository: https://github.com/CodingCraftYT/chatbot-streamlit-openai 🌟<br>
-  🔐 OpenAI API Key: https://platform.openai.com/account/api-keys 🔐
-</p>
-
-# AI SDR Assistant
-
 AI SDR Assistant is a lightweight Streamlit-based web app that generates personalized outbound sales content using LLMs.
 
 The tool allows users to enter:
